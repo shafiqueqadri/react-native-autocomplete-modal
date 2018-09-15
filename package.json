@@ -1,0 +1,33 @@
+{
+  "name": "react-native-autocomplete-modal",
+  "version": "0.0.2",
+  "description": "A react-native package that can be used for search item, select item or choose item. This is pretty simple and awesome to use. I hope you'll love it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrshafiqueqadri/react-native-autocomplete-modal.git"
+  },
+  "keywords": [
+    "React-native",
+    "ReactNative",
+    "AutoComplete",
+    "Auto-Complete",
+    "Auto",
+    "Complete",
+    "Search",
+    "able",
+    "Select",
+    "Able",
+    "Field",
+    "option."
+  ],
+  "author": "mr.shafique.qadri@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrshafiqueqadri/react-native-autocomplete-modal.git/issues"
+  },
+  "homepage": "https://github.com/mrshafiqueqadri/react-native-autocomplete-modal.git#readme"
+}
