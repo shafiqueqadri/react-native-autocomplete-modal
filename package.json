@@ -1,6 +1,6 @@
 {
   "name": "react-native-autocomplete-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native package that can be used for search item, select item or choose item. This is pretty simple and awesome to use. I hope you'll love it.",
   "main": "index.js",
   "scripts": {
