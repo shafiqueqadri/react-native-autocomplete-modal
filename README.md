@@ -16,7 +16,7 @@ Import module in your project like,
 
     import AutoComplete from "react-native-autocomplete-modal";
     
-## HeadingUsage
+## Usage
 
 	const countries = [
 		{name: "Pakistan"},
@@ -29,6 +29,7 @@ Import module in your project like,
         searchPlaceholder='Search Country'
         cancelText="Close"
         textColor="white"
+        searchField="name"
     />
 
 
